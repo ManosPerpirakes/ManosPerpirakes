@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ManosPerpirakes
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
 
 <!---
 ManosPerpirakes/ManosPerpirakes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
